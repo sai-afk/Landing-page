@@ -57,6 +57,41 @@ ul {
 
 button {
     display: flex;
-    background-color: aqua;
+    background-color: gold;
     border-radius: 5px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    margin: 16px;
+}
+
+#b {
+    width: 300px;
+    height: auto;
+}
+
+.writing-ct {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 16px;
+    margin: 50px;
+}
+
+.three {
+    display: flex;
+    background-color: #9975b4;
+    flex-direction: column;
+}
+
+.quote {
+    padding: 100px;
+    font-style: italic;
+}
+
+.Captain {
+    display: flex;
 }
