@@ -55,7 +55,7 @@ ul {
     background-color:beige ;
 }
 
-button {
+.btn-1 {
     display: flex;
     background-color: gold;
     border-radius: 5px;
@@ -92,6 +92,22 @@ button {
     font-style: italic;
 }
 
-.Captain {
+.footer {
     display: flex;
+    background-color: #0ba6ff;
+    margin: 100px;
+    padding: 21px;
+    color: white;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+.txt {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    display: flex;
+    align-items: center;
 }
