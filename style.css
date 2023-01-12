@@ -94,7 +94,7 @@ ul {
 
 .footer {
     display: flex;
-    background-color: #0ba6ff;
+    background-color: #467EFF;
     margin: 100px;
     padding: 21px;
     color: white;
@@ -107,7 +107,19 @@ ul {
     flex-direction: column;
 }
 
-.button {
+.btn-2 {
     display: flex;
-    align-items: center;
+    background-color: #467EFF;
+    color: white;
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 6px;
+    margin: 35px;
+    width: 100px;
+    justify-content: center;
+}
+
+.CTA {
+    display: flex;
+    margin-bottom: 0;
 }
